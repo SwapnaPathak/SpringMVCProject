@@ -1,0 +1,14 @@
+com\org\wipro\bean\CourseBean.class
+com\org\wipro\model\University.class
+com\org\wipro\service\UniversityService.class
+com\org\wipro\bean\UniversityBean.class
+com\org\wipro\controller\UniversityController.class
+com\org\wipro\controller\StudentController.class
+com\org\wipro\dao\CourseDaoImpl.class
+com\org\wipro\dao\UniversityDaoImpl.class
+com\org\wipro\model\Course.class
+com\org\wipro\service\CourseService.class
+com\org\wipro\dao\CourseDao.class
+com\org\wipro\service\CourseServiceImpl.class
+com\org\wipro\service\UniversityServiceImpl.class
+com\org\wipro\dao\UniversityDao.class
